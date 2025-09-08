@@ -1,0 +1,22 @@
+{
+  "appTitle": "المكتبة",
+
+  "drawerMenu": "القائمة",
+  "drawerSettings": "الإعدادات",
+  "drawerProfile": "الملف الشخصي",
+  "drawerPreferences": "التفضيلات",
+
+  "settingsTitle": "الإعدادات",
+  "settingsChooseLanguage": "اختيار اللغة",
+  "settingsApply": "تطبيق",
+
+  "navLibrary": "مكتبتي",
+  "navNewBooks": "جديد الكتب",
+  "navUpdates": "تحديثات",
+  "navAdvancedSearch": "بحث متقدم",
+
+  "booksNewList": "قائمة الكتب الجديدة",
+  "updatesLatest": "آخر التحديثات",
+  "searchAdvanced": "بحث متقدم"
+}
+

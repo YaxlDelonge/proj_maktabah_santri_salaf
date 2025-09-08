@@ -1,0 +1,35 @@
+name: proj_maktabah_santri_salaf
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  pdfx: ^2.6.0
+  path_provider: ^2.1.4
+  file_picker: ^10.3.2
+  syncfusion_flutter_pdfviewer: ^31.1.17
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true   # wajib untuk gen_l10n
+
+  assets:
+    - assets/fonts/
+
+  fonts:
+    - family: Amiri
+      fonts:
+        - asset: assets/fonts/Amiri-Regular.ttf

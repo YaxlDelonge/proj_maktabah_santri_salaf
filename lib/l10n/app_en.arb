@@ -1,0 +1,22 @@
+{
+  "appTitle": "Maktabah",
+  "@appTitle": { "description": "Main app title" },
+
+  "drawerMenu": "Menu",
+  "drawerSettings": "Settings",
+  "drawerProfile": "Profile",
+  "drawerPreferences": "Preferences",
+
+  "settingsTitle": "Settings",
+  "settingsChooseLanguage": "Choose Language",
+  "settingsApply": "Apply",
+
+  "navLibrary": "My Library",
+  "navNewBooks": "New Books",
+  "navUpdates": "Updates",
+  "navAdvancedSearch": "Advanced Search",
+
+  "booksNewList": "New books list",
+  "updatesLatest": "Latest updates",
+  "searchAdvanced": "Advanced search"
+}

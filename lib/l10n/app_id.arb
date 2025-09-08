@@ -1,0 +1,22 @@
+{
+    "appTitle": "Maktabah",
+  
+    "drawerMenu": "Menu",
+    "drawerSettings": "Pengaturan",
+    "drawerProfile": "Profil",
+    "drawerPreferences": "Preferensi",
+  
+    "settingsTitle": "Pengaturan",
+    "settingsChooseLanguage": "Pilih Bahasa",
+    "settingsApply": "Terapkan",
+  
+    "navLibrary": "Perpustakaanku",
+    "navNewBooks": "Buku Baru",
+    "navUpdates": "Pembaruan",
+    "navAdvancedSearch": "Pencarian Lanjutan",
+  
+    "booksNewList": "Daftar buku baru",
+    "updatesLatest": "Pembaruan terbaru",
+    "searchAdvanced": "Pencarian lanjutan"
+  }
+  
