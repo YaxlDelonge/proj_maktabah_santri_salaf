@@ -1,2 +1,11 @@
 # proj_maktabah_santri_salaf
-Aplikasi Kitab digital mobile modern yang berdasarkan Ahlusunnah  
+
+Aplikasi perpustakaan santri salaf berbasis Flutter.
+
+## Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/screen1.png" width="250"/>
+  <img src="assets/screenshots/screen2.png" width="250"/>
+  <img src="assets/screenshots/screen3.png" width="250"/>
+</p>
